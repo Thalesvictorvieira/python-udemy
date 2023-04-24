@@ -5,7 +5,7 @@ is e is not = é ou não é (tipo, valor, identidade)
 id = Identidade
 is e igual a == 
 """
-condicao = False
+condicao = input('A sua condição e False ou True ?')
 passou_no_if = None
 
 if condicao:
