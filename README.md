@@ -1,2 +1,2 @@
 # cursos-
-curso de phyton3 que eu fiz, estou fazendo
+curso de python3 que eu fiz, estou fazendo
