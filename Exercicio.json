@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Thales",
+    "idade": 18,
+    "genero": "Masculino",
+    "cor": "Branco"
+  },
+  {
+    "nome": "Asael",
+    "idade": 19,
+    "genero": "Masculino",
+    "cor": "Branco"
+  }
+]
