@@ -1,2 +1,2 @@
-import uma_linha
-print(uma_linha.__dict__)
+import varias_linhas
+help(varias_linhas)
