@@ -12,3 +12,6 @@
 # load_dotenv()
 # https://pypi.org/project/python-dotenv/
 # OBS.: sempre lembre-se de criar um .env-example
+import os
+from dotenv import load_dotenv # type: ignore
+print(os.getenv('bd_user'))
